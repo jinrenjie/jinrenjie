@@ -4,7 +4,7 @@ Hi, I'm [George King](https://george.betterde.com/), after 90 years, I am a youn
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/jinrenjie/jinrenjie/raw/master/assets/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/jinrenjie/jinrnejie/blob/master/assets/code.gif?raw=true" width="500" height="320" />
 
 
 
