@@ -1,23 +1,10 @@
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(09BD28&lines=A+post-90s+obsessed+with+coding!)&center=true&size=27">
-  </a>
-</h1>
-
-<div align="center">
-  <a href="https://george.betterde.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jinrenjie" alt="PV" />
-</div>
-
-<br />
-
 #  🙋 Hello
 
 Hi, I'm [George King](https://george.betterde.com/), after 90 years, I am a young man in Aquarius, living in Shanghai, China; engaged in back-end development. After graduation, I came to Shanghai and started to do `PHP` development, then I learned `Golang` from a friend, until now I have been specializing in various technology stacks in the backend, of course, the frontend is not left behind, as the saying goes: "Live to learn. "I like the feeling of knocking code, believe that programming is an art, self-proclaimed as swimming in the code of life.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/JellyTony/JellyTony/raw/main/assets/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/jinrenjie/jinrenjie/raw/master/assets/code.gif?raw=true" width="500" height="320" />
 
 
 
@@ -51,6 +38,12 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/chrome/chrome.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"></code>
 
 <br />
 <br />
