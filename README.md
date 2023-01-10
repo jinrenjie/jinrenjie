@@ -45,8 +45,6 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/1101154aff19156176afcb7153ec86b042df8cbe/topics/actions/actions.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/1101154aff19156176afcb7153ec86b042df8cbe/topics/actions/actions.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/1101154aff19156176afcb7153ec86b042df8cbe/topics/actions/actions.png"></code>
 
 <br />
 <br />
