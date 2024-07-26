@@ -59,13 +59,13 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![Docker](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg)
 ![Vue](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg)
 ![Laravel](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/laravel.svg)
+![K8s](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg)
 
 
 🧠 Planned learning:
 
 &emsp;&emsp;
 ![Rust](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg)
-![K8s](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg)
 ![Flutter](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg)
 
 🧰 Common tools:
