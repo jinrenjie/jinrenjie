@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br />
 
-**languages and tools:**
+**Languages and tools:**
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -51,7 +51,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br />
 <br />
 
-💪 I am learning:
+💪 Tech Stack:
 
 &emsp;&emsp;
 ![GO](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/go.svg)
@@ -62,7 +62,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![K8s](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg)
 
 
-🧠 Planned learning:
+🧠 I am learning:
 
 &emsp;&emsp;
 ![Rust](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg)
@@ -72,7 +72,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 &emsp;&emsp;
 ![Mac](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/mac.svg)
-![Google Chrome](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/chrome.svg)
+![Chrome](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/chrome.svg)
 ![Goland](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_goland.svg)
 ![Phpstorm](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_phpstorm.svg)
 ![Webstorm](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg)
