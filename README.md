@@ -1,6 +1,6 @@
 #  🙋 Hi there
 
-Hi, I'm [George King](https://george.betterde.com/), after 90 years, I am a young man in Aquarius, living in Shanghai, China; engaged in back-end development. After graduation, I came to Shanghai and started to do `PHP` development, then I learned `Golang` from a friend, until now I have been specializing in various technology stacks in the backend, of course, the frontend is not left behind, as the saying goes: "Live to learn. "I like the feeling of knocking code, believe that programming is an art, self-proclaimed as swimming in the code of life.
+Hi, I'm [George King](https://george.betterde.com/). A young Capricorn, I live in Shanghai, China, working primarily in back-end development. After graduating, I moved to Shanghai and began my career with PHP development. Later, a friend introduced me to Golang, and since then, I’ve delved deep into various backend tech stacks—though I’ve kept up with the frontend as well. As the saying goes, “Live and learn.” I enjoy the process of coding and believe programming is an art, often describing myself as “swimming in the sea of code.”
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
